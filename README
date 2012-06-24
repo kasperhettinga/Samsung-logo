@@ -7,7 +7,7 @@ Run the createLogos.sh script:
 ./createLogos.sh
 
 Copy the file into the Kernel's source path:
-cp logo_rgb24_wvga_portrait_custom.h ../Kernel/drivers/video/samsung/logo_rgb24_wvga_portrait.h
+cp logo_rgb24_wvga_portrait_custom.h ../../system/kernel/samsung/aries/drivers/video/samsung/logo_rgb24_wvga_portrait.h
 
 Compile your kernel as usual.
 
